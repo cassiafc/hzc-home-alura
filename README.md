@@ -1,103 +1,44 @@
-# Guia de estilos
+<h1 align="center">Flex-e-Grid</h1>
 
-Toda a estilização que será usada no projeto dentro do figma.
+![logo.png](/img/logo.png)
 
-[Link do projeto no figma](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358)
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
-## Fonte
+## Tópicos
 
-```html
-Open Sans:
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap">
-```
+- `Descrição do Projeto`
+- `Tecnologias usadas`
+- `Acesse o Projeto`
 
-## Cores
 
-corpo: `#1D232A`
 
-cabeçalho: `#1D232A`
 
-cabeçalho mobile: `#15191C`
 
-menu lateral: `#15191C`
 
-cartão: `#2C343A`
+## Descrição do Projeto
 
-fonte: `#FFFFFF`
+Esta é a landing page do 'Alura plus', contendo as informações de cada plano, valores e como assinar cada um ou todos eles.
 
-fonte alternativa: `#95999C`
+Esta página foi desenvolvida durante o curso 'HTML e CSS: praticando HTML/CSS' na escola de tecnologia Alura .
 
-links: `#0480DC`
 
-botão: `#0480DC`
 
-sombras: `0px 4px 4px rgba(0, 0, 0, 0.16)`
+## Tecnologias usadas
 
-## Ícones
+![HTML5](https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
+![CSS3](https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
 
-Estão dentro do arquivo de fonte `icones.ttf`. Para usar, primeiro importe a fonte no projeto usando `@font-face` e depois utilize os códigos abaixo para exibir o ícone.
 
-```css
-@font-face {
-    font-family: 'icones';
-    src: url(../font/icones.ttf);
-}
-```
 
-> Cuidado com a localização do arquivo `icones.ttf`
+## Acesse o Projeto
 
-Camisas = `\e900`
+- `Mobile`
+- `Tablet`
+- `Descktop`
 
-Carrinho = `\e901`
 
-Inicio = `\e902`
 
-Integrantes = `\e903`
 
-Menu = `\e904`
 
-Moeda = `\e905`
-
-Notificação = `\e906`
-
-Pico = `\e908`
-
-Picos = `\e909`
-
-Pinturas = `\e90a`
-
-Play = `\e90b`
-
-Relogio = `\e90c`
-
-Seta-baixo = `\e90d`
-
-Videos = `\e90e`
-
-Visualizacao = `\e90f`
-
-## Espaçamentos
-
-Espaço interno botão: `8px`
-
-Espaço entre elementos do botão: `8px`
-
-Espaço entre elementos: `16px/8px`
-
-Espaçamento interno do corpo: `16px`
-
-Espaçamento entre o título do cartão de recentes e seus itens: `24px`
-
-## Tamanhos
-
-Tamanho do dispositivo mobile: `360px`
-
-Tamanho do dispositivo desktop: `1440px`
-
-Largura máxima do conteúdo principal: `1120px`
-
-Largura máxima de um cartão desktop: `256px`
-
-Altura mínima de um cartão: `320px`
