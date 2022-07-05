@@ -1,10 +1,17 @@
-<h1 align="center">Alura-HZC</h1>
-
-<img src="img/HZC-Home.png" alt="Alura-HZC">
-
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
+
+<h1 align="center">Alura-HZC - Desktop</h1>
+
+![HZC-Home-desktop](https://user-images.githubusercontent.com/105315548/177237791-522fc348-4d1c-45a8-b61c-fe3dcc64a7ad.png)
+
+<h1 align="center">Alura-HZC - Mobile</h1>
+
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/105315548/177237970-cd04bc7b-19dd-44f9-9be8-95d529b09ed7.png">
+</p>
+
 <!--
 ## Tópicos-->
 <!--
