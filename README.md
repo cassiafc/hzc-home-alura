@@ -1,13 +1,13 @@
-<h1 align="center">Flex-e-Grid</h1>
+<h1 align="center">Alura-HZC</h1>
 
-![logo.png](/img/logo.png)
+<img src="img/HZC-Home.png" alt="Alura-HZC">
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
-
-## Tópicos
-
+<!--
+## Tópicos-->
+<!--
 - `Descrição do Projeto`
 - `Tecnologias usadas`
 - `Acesse o Projeto`
@@ -38,7 +38,7 @@ Esta página foi desenvolvida durante o curso 'HTML e CSS: praticando HTML/CSS' 
 - `Tablet`
 - `Descktop`
 
-
+-->
 
 
 
